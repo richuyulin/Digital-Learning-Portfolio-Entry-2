@@ -10,7 +10,8 @@ I don't have a formal plan as to how I'll review or study Chinese during the sum
 
 I'm a believer in crypto, NFT, and blockchain technology. I'm currently working with Fyat Lux team to do some groundbreaking work in the NFT / Metaverse world. We're working to bring storying telling to Metaverse, as well as bridging reality to Metaverse by being the first Phygital project. Our Phygital portion is a physical card our holders can order during our claim window and collect. Think of it like a pokemon trading card but you can see our card in AR once you launch the app on your phone. There are also many other cool features we plan to implement in the future. Beyond that, we should be releasing our prologue audiobook soon! So that's also really exciting. 
 
-Here are some sneakpeaks:
+Here's a sneak peak of our phygital:
 ![Image](https://cdn.discordapp.com/attachments/898732626783907880/923640474584088626/FHTPd_wX0AAWpTl.jpeg)
+
+Here's a sneak peak of our character in the Fyat Lux world that we're building:
 ![Image](https://cdn.discordapp.com/attachments/898732626783907880/934516986963165235/UniverseStill15.png)
-![Image](https://pbs.twimg.com/media/FOjK6KwXIAUii0y?format=jpg&name=small)
